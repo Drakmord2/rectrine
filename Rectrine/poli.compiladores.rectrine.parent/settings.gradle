@@ -1,0 +1,4 @@
+include 'poli.compiladores.rectrine'
+include 'poli.compiladores.rectrine.ide'
+include 'poli.compiladores.rectrine.web'
+include 'poli.compiladores.rectrine.tests'
